@@ -1,0 +1,4853 @@
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.MODEM:STARTUP
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+sProcess the UART receive function
+enter the for loop
+0x0A else part
+qProcess the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+
+.+CSQ: 99, 99Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+sProcess the UART receive function
+enter the for loop
+0x0A else part
+qProcess the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+
+.+CSQ: 99, 99Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+sProcess the UART receive function
+enter the for loop
+0x0A else part
+qProcess the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+
+.+CSQ: 19, 99Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+rProcess the UART receive function
+enter the for loop
+0x0A else part
+eProcess the UART receive function
+enter the for loop
+0x0A else part
+gProcess the UART receive function
+enter the for loop
+0x0A else part
+?Process the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+
+.+CREG: 0,2Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+rProcess the UART receive function
+enter the for loop
+0x0A else part
+eProcess the UART receive function
+enter the for loop
+0x0A else part
+gProcess the UART receive function
+enter the for loop
+0x0A else part
+?Process the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+
+.+CREG: 0,2Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.+GLTS: 00/00/00,00:00:00/GMT000
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+rProcess the UART receive function
+enter the for loop
+0x0A else part
+eProcess the UART receive function
+enter the for loop
+0x0A else part
+gProcess the UART receive function
+enter the for loop
+0x0A else part
+?Process the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+
+.+CREG: 0,1Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+mProcess the UART receive function
+enter the for loop
+0x0A else part
+gProcess the UART receive function
+enter the for loop
+0x0A else part
+fProcess the UART receive function
+enter the for loop
+0x0A else part
+=Process the UART receive function
+enter the for loop
+0x0A else part
+1Process the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+sProcess the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+sProcess the UART receive function
+enter the for loop
+0x0A else part
+=Process the UART receive function
+enter the for loop
+0x0A else part
+"Process the UART receive function
+enter the for loop
+0x0A else part
+hProcess the UART receive function
+enter the for loop
+0x0A else part
+eProcess the UART receive function
+enter the for loop
+0x0A else part
+xProcess the UART receive function
+enter the for loop
+0x0A else part
+"Process the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.+GLTS: 20/01/18,10:40:37/GMT+5:30
+.Process the UART receive function
+enter the for loop
+0x0A else part
+aProcess the UART receive function
+enter the for loop
+0x0A else part
+tProcess the UART receive function
+enter the for loop
+0x0A else part
++Process the UART receive function
+enter the for loop
+0x0A else part
+cProcess the UART receive function
+enter the for loop
+0x0A else part
+nProcess the UART receive function
+enter the for loop
+0x0A else part
+mProcess the UART receive function
+enter the for loop
+0x0A else part
+iProcess the UART receive function
+enter the for loop
+0x0A else part
+=Process the UART receive function
+enter the for loop
+0x0A else part
+2Process the UART receive function
+enter the for loop
+0x0A else part
+,Process the UART receive function
+enter the for loop
+0x0A else part
+2Process the UART receive function
+enter the for loop
+0x0A else part
+,Process the UART receive function
+enter the for loop
+0x0A else part
+0Process the UART receive function
+enter the for loop
+0x0A else part
+,Process the UART receive function
+enter the for loop
+0x0A else part
+0Process the UART receive function
+enter the for loop
+0x0A else part
+,Process the UART receive function
+enter the for loop
+0x0A else part
+0Process the UART receive function
+enter the for loop
+receive  0x0D
+Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.OK
+.SM_INIT_OK
+.Process the UART receive function
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0Denter the for loop
+receive  0x0Atag num = 1
+
+.end
+.
+.+PBREADY
+.Process the UART receive function
+enter the for loop
+receive  0x0D
+enter the for loop
+receive  0x0A
+tag num = 1
+
+.Process the UART receive function
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+receive  0x0D
+enter the for loop
+receive  0x0A
+tag num = 1
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
+enter the for loop
+0x0A else part
++CMT: "+918660366534", ,"2020/01/18,10:41:42+22"
+.486920676D
+Process the UART receive function
+enter the for loop
+receive  0x0D
+enter the for loop
+receive  0x0
+Atag num = 1
+
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+column is 0
+column is 0
+
+.MODEM:STARTUP
+.column is 1
+acolumn is 2
+tcolumn is 3
+
+column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,2column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,2column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,2column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,2column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,2column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,2column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,2column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,2column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+rcolumn is 6
+ecolumn is 7
+gcolumn is 8
+?column is 9
+
+column is 10
+
+.+CREG: 0,1column is 0
+
+.OK
+.column is 0
+
+.+GLTS: 00/00/00,00:00:00/GMT000
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+scolumn is 6
+qcolumn is 7
+
+column is 11
+
+.+CSQ: 15, 0column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+Gcolumn is 5
+Lcolumn is 6
+Tcolumn is 7
+Scolumn is 8
+=column is 9
+1column is 10
+
+column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+scolumn is 6
+ccolumn is 7
+scolumn is 8
+=column is 9
+"column is 10
+Hcolumn is 11
+Ecolumn is 12
+Xcolumn is 13
+"column is 14
+
+column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+ncolumn is 6
+mcolumn is 7
+icolumn is 8
+=column is 9
+2column is 10
+,column is 11
+2column is 12
+,column is 13
+0column is 14
+,column is 15
+0column is 16
+,column is 17
+0column is 18
+
+column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+xcolumn is 5
+icolumn is 6
+icolumn is 7
+ccolumn is 8
+=column is 9
+1column is 10
+
+column is 0
+
+.OK
+.SM_INIT_OK
+column is 0
+
+.+GLTS: 20/01/18,15:28:04/GMT+5:30
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+scolumn is 6
+qcolumn is 7
+
+column is 11
+
+.+CSQ: 15, 0column is 0
+
+.OK
+.
+.+PBREADY
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+mcolumn is 6
+gcolumn is 7
+fcolumn is 8
+=column is 9
+1column is 10
+
+column is 0
+
+.OK
+.column is 1
+acolumn is 2
+tcolumn is 3
++column is 4
+ccolumn is 5
+scolumn is 6
+ccolumn is 7
+scolumn is 8
+=column is 9
+"column is 10
+Hcolumn is 11
+Ecolumn is 12
+Xcolumn is 13
+"column is 14
+
+column is 0
+
+.OK
+.column is 0
+
+.SM_MSG_INIT_OK
+.column is 0
+
+.Battery voltage reading...
+.column is 0
+
+.Cur_Bat_Voltage = 3.8997 volts
+
+.column is 0
+
+.Battery_Voltage_Level=61%
+.column is 0
+
+.reading moisture sensor data...
+.column is 0
+
+.sensor_Voltage is = 2.7999 volts
+
+.column is 0
+
+.stops working
+.column is 0
+
+.column is 26
++CMT: "+918660366534", ,"2020/01/18,15:28:44+22"
+.4D6179206920636F6D6520696E
+column is 0
+
+.column is 0
+
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,15:28:44+22"
+.4D6179206920636F6D6520696E
+.column is 0
+
+.receive_msg_buf = 
+.column is 0
+
+.message_extract_function
+.column is 0
+
+.Rec_Mbl_No = +918660366534
+.column is 0
+
+.Rec_Msg = May i come in
+.column is 0
+
+.column is 20
++CMT: "+918660366534", ,"2020/01/18,15:28:58+22"
+.47677368687368686A73
+column is 0
+
+.column is 0
+
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,15:28:58+22"
+.47677368687368686A734D6179206920636F6D6520696E
+.
+.column is 0
+
+.receive_msg_buf = 
+.column is 0
+
+.message_extract_function
+.column is 0
+
+.Rec_Mbl_No = +918660366534
+.column is 0
+
+.Rec_Msg = GgshhshhjsMay i come in
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 10
+  column-1 is 9
+start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 14
+  column-1 is 13
+
+.MODEM:STARTUP
+.at
+start_pos is 0
+ column is 4
+  column-1 is 3
+start_pos is 5
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+  column-1 is 9
+
+.+CREG: 0,1start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 32
+  column-1 is 31
+
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+start_pos is 0
+ column is 8
+  column-1 is 7
+
+.+CSQ: 16, 0start_pos is 0
+ column is 12
+  column-1 is 11
+start_pos is 13
+ column is 3
+  column-1 is 2
+
+.OK
+.at+GLTS=1
+start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+  column-1 is 14
+start_pos is 16
+ column is 3
+  column-1 is 2
+
+.OK
+.at+cnmi=2,2,0,0,0
+start_pos is 0
+ column is 19
+  column-1 is 18
+start_pos is 20
+ column is 3
+  column-1 is 2
+
+.OK
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 34
+  column-1 is 33
+
+.+GLTS: 20/01/18,15:44:21/GMT+5:30
+.at+xiic=1
+start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+start_pos is 0
+ column is 8
+  column-1 is 7
+
+.+CSQ: 16, 0start_pos is 0
+ column is 12
+  column-1 is 11
+start_pos is 13
+ column is 3
+  column-1 is 2
+
+.OK
+.at+cmgf=1
+start_pos is 0
+ column is 11
+  column-1 is 10
+start_pos is 12
+ column is 3
+  column-1 is 2
+
+.OK
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+  column-1 is 14
+start_pos is 16
+ column is 3
+  column-1 is 2
+
+.OK
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 15
+  column-1 is 14
+
+.SM_MSG_INIT_OK
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 27
+  column-1 is 26
+
+.Battery voltage reading...
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 32
+  column-1 is 31
+
+.Cur_Bat_Voltage = 3.8593 volts
+
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 26
+  column-1 is 25
+
+.Battery_Voltage_Level=55%
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 32
+  column-1 is 31
+
+.reading moisture sensor data...
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 34
+  column-1 is 33
+
+.sensor_Voltage is = 2.7999 volts
+
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 14
+  column-1 is 13
+
+.stops working
+.start_pos is 0
+ column is 1
+  column-1 is 0
+
+.start_pos is 0
+ column is 49
+  column-1 is 48
++CMT: "+918660366534", ,"2020/01/18,15:45:09+22"
+.4D6179206920636F6D6520696Estart_pos is 0
+ column is 27
+  column-1 is 26
+
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 67
+  column-1 is 66
+start_pos is 70
+ column is 27
+  column-1 is 26
+
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,15:45:09+22"
+.4D6179206920636F6D6520696E
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 19
+  column-1 is 18
+
+.receive_msg_buf = 
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 25
+  column-1 is 24
+
+.message_extract_function
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 27
+  column-1 is 26
+
+.Rec_Mbl_No = +918660366534
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 24
+  column-1 is 23
+
+.Rec_Msg = May i come in
+.start_pos is 0
+ column is 1
+  column-1 is 0
+
+.start_pos is 0
+ column is 49
+  column-1 is 48
++CMT: "+918660366534", ,"2020/01/18,15:45:57+22"
+.416D2074686520626F7373start_pos is 0
+ column is 23
+  column-1 is 22
+
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 67
+  column-1 is 66
+start_pos is 70
+ column is 47
+  column-1 is 46
+start_pos is 118
+ column is 1
+  column-1 is 0
+
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,15:45:57+22"
+.416D2074686520626F73736179206920636F6D6520696E
+.
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 19
+  column-1 is 18
+
+.receive_msg_buf = 
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 25
+  column-1 is 24
+
+.message_extract_function
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 27
+  column-1 is 26
+
+.Rec_Mbl_No = +918660366534
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 34
+  column-1 is 33
+
+.Rec_Msg = Am the bossay i come in
+.start_pos is 0
+ column is 1
+  column-1 is 0
+
+.start_pos is 0
+ column is 49
+  column-1 is 48
++CMT: "+918660366534", ,"2020/01/18,15:46:20+22"
+.49662075207468696E6B20752062616420616D20757220646164start_pos is 0
+ column is 53
+  column-1 is 52
+
+.start_pos is 0
+ column is 1
+  column-1 is 0
+
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/start_pos is 0
+ column is 67
+  column-1 is 66
+start_pos is 68
+ column is 67
+  column-1 is 66
+start_pos is 136
+ column is 1
+  column-1 is 0
+start_pos is 138
+ column is 1
+  column-1 is 0
+01/18,15:46:20+22"
+.49662075207468696E6B20752062616420616D20757220646164636F6D6520696E
+.
+.
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 19
+  column-1 is 18
+
+.receive_msg_buf = 
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 25
+  column-1 is 24
+
+.message_extract_function
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 27
+  column-1 is 26
+
+.Rec_Mbl_No = +918660366534
+.start_pos is 0
+ column is 1
+  column-1 is 0
+start_pos is 2
+ column is 44
+  column-1 is 43
+
+.Rec_Msg = If u think u bad am ur dadcome in
+..>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/18,16:09:24/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8246 volts
+
+.
+.Battery_Voltage_Level=49%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:45+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:45+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/18,16:09:24/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8246 volts
+
+.
+.Battery_Voltage_Level=49%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:45+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:45+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:12:00+22"
+.476F6F64206576656E696E67
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:12:00+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 16, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+GLTS: 20/01/18,16:16:27/GMT+5:30
+.
+.+PBREADY
+.at+csq
+
+.+CSQ: 16, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8298 volts
+
+.
+.Battery_Voltage_Level=50%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:17:17+22"
+.47686A736862646862646B6D73
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:17:17+22"
+.47686A736862646862646B6D73
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Ghjshbdhbdkms
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:17:27+22"
+.4868736A6A736868736B6B64
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:17:27+22"
+.4868736A6A736868736B6B646A736862646862646B6D73
+.
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhsjjshhskkdjshbdhbdkms
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/18,16:09:24/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8246 volts
+
+.
+.Battery_Voltage_Level=49%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:45+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:45+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:12:00+22"
+.476F6F64206576656E696E67
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:12:00+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 16, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+GLTS: 20/01/18,16:16:27/GMT+5:30
+.
+.+PBREADY
+.at+csq
+
+.+CSQ: 16, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8298 volts
+
+.
+.Battery_Voltage_Level=50%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:17:17+22"
+.47686A736862646862646B6D73
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:17:17+22"
+.47686A736862646862646B6D73
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Ghjshbdhbdkms
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:17:27+22"
+.4868736A6A736868736B6B64
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:17:27+22"
+.4868736A6A736868736B6B646A736862646862646B6D73
+.
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhsjjshhskkdjshbdhbdkms
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.+GLTS: 20/01/18,16:24:39/GMT+5:30
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8060 volts
+
+.
+.Battery_Voltage_Level=47%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:24:57+22"
+.4868736A6A736A6A67687A
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:24:57+22"
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:24:57+22"
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:25:46+22"
+.476773756873
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:25:46+22"
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:25:46+22"
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/18,16:09:24/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8246 volts
+
+.
+.Battery_Voltage_Level=49%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:45+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:45+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.49662075207468696E6B20752062616420616D20757220646164
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:09:50+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:12:00+22"
+.476F6F64206576656E696E67
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:12:00+22"
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 16, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+GLTS: 20/01/18,16:16:27/GMT+5:30
+.
+.+PBREADY
+.at+csq
+
+.+CSQ: 16, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8298 volts
+
+.
+.Battery_Voltage_Level=50%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:17:17+22"
+.47686A736862646862646B6D73
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:17:17+22"
+.47686A736862646862646B6D73
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Ghjshbdhbdkms
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:17:27+22"
+.4868736A6A736868736B6B64
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:17:27+22"
+.4868736A6A736868736B6B646A736862646862646B6D73
+.
+.
+.receive_msg_buf = 
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhsjjshhskkdjshbdhbdkms
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.+GLTS: 20/01/18,16:24:39/GMT+5:30
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8060 volts
+
+.
+.Battery_Voltage_Level=47%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:24:57+22"
+.4868736A6A736A6A67687A
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:24:57+22"
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:24:57+22"
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:25:46+22"
+.476773756873
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:25:46+22"
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:25:46+22"
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 16, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 16, 0
+.OK
+.
+.+PBREADY
+.
+.+GLTS: 20/01/18,16:34:24/GMT+5:30
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.7817 volts
+
+.
+.Battery_Voltage_Level=43%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:34:47+22"
+.48686A736A6A7362767673
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:34:47+22"
+.48686A736A6A7362767673
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:34:47+22"
+.48686A736A6A7362767673
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhjsjjsbvvs
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:34:58+22"
+.4868617568677376676773696B6E
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:34:58+22"
+.4868617568677376676773696B6E6A7362767673
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:34:58+22"
+.4868617568677376676773696B6E6A7362767673
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhauhgsvggsiknjsbvvs
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/18,16:37:04/GMT+5:30
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.7822 volts
+
+.
+.Battery_Voltage_Level=43%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:37:29+22"
+.4868736A6A62736868646A64 // Hhsjjbshhdjd
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:37:29+22"
+.4868736A6A62736868646A64 // Hhsjjbshhdjd
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:37:29+22"
+.4868736A6A62736868646A64 // Hhsjjbshhdjd
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhsjjbshhdjd
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:37:43+22"
+.4868687362687368687A62627A6862646E6A73 // Hhhsbhshhzbbzhbdnjs
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:37:43+22"
+.4868687362687368687A62627A6862646E6A736A64 // Hhhsbhshhzbbzhbdnjs jd
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:37:43+22"
+.4868687362687368687A62627A6862646E6A736A64 // Hhhsbhshhzbbzhbdnjs jd
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhhsbhshhzbbzhbdnjsjd
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:38:09+22"
+.47687368686873 // Ghshhhs
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:38:09+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:38:09+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Ghshhhs.
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:38:24+22"
+.4868736A6873
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:38:24+22"
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:38:24+22"
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhsjhs..
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:38:35+22"
+.4A6A736262646262
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:38:35+22"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:38:35+22"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Jjsbbdbb
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:38:47+22"
+.4868736A6A6A73
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:38:47+22"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:38:47+22"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhsjjjs.
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:39:03+22"
+.48687368686778
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:39:03+22"
+.486873686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:39:03+22"
+.486873686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Hhshhgx.
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:39:14+22"
+.4A6A736A68646868646A6A6A
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:39:14+22"
+.4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:39:14+22"
+.4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Jjsjhdhhdjjjhhgx.
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:39:29+22"
+.48686873686A78756A
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:39:29+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:39:29+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = HhhshjxujJjsjhdhhdjjjhhgx.
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:39:39+22"
+.5575687368
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:39:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:39:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Uuhsh)..
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:40:02+22"
+.59797979
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Yyyy
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:40:13+22"
+.54747474
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:13+22"
+.547474740:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:13+22"
+.547474740:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Tttt
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:40:24+22"
+.5272727272
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:24+22"
+.527272727213+22"
+.547474740:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:24+22"
+.527272727213+22"
+.547474740:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Rrrrr...
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:40:44+22"
+.4F6F6F6F6F
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:44+22"
+.4F6F6F6F0:24+22"
+.527272727213+22"
+.547474740:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:44+22"
+.4F6F6F6F0:24+22"
+.527272727213+22"
+.547474740:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Oooo
+.
+.+CMT: "+918660366534", ,"2020/01/18,16:40:57+22"
+.49716971697169716971
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:57+22"
+.497169716971697169716F6F6F0:24+22"
+.527272727213+22"
+.547474740:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.receive_msg_buf = 
+.
+.Local_msg_buf = +CMT: "+918660366534", ,"2020/01/18,16:40:57+22"
+.497169716971697169716F6F6F0:24+22"
+.527272727213+22"
+.547474740:02+22"
+.597979799:39+22"
+.557568736829+22"
+.48686873686A78756A4A6A736A68646868646A6A6A686867782"
+.4868736A6A6A732"
+.4A6A736262646262
+.4868736A6873+22"
+.476873686868732"
+.4868687362687368687A62627A7A6862646E6A736A64
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.message_extract_function
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Iqiqiqiqiqooo
+.
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+start_pos is 0
+ column is 1
+start_pos is 2
+ column is 10
+start_pos is 0
+ column is 1
+start_pos is 2
+ column is 14
+
+.MODEM:STARTUP
+.at
+start_pos is 0
+ column is 4
+start_pos is 5
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,1start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+start_pos is 0
+ column is 8
+
+.+CSQ: 14, 0start_pos is 0
+ column is 12
+start_pos is 13
+ column is 3
+
+.OK
+.at+GLTS=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+start_pos is 16
+ column is 3
+
+.OK
+.at+cnmi=2,2,0,0,0
+start_pos is 0
+ column is 19
+start_pos is 20
+ column is 3
+
+.OK
+.at+xiic=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.SM_INIT_OK
+at+csq
+start_pos is 0
+ column is 8
+
+.+CSQ: 14, 0start_pos is 0
+ column is 12
+start_pos is 13
+ column is 3
+
+.OK
+.at+cmgf=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 34
+
+.+GLTS: 20/01/18,17:03:09/GMT+5:30
+.
+.+PBREADY
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+start_pos is 16
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 15
+
+.SM_MSG_INIT_OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 27
+
+.Battery voltage reading...
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.Cur_Bat_Voltage = 3.7339 volts
+
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 26
+
+.Battery_Voltage_Level=35%
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.reading moisture sensor data...
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 34
+
+.sensor_Voltage is = 2.7999 volts
+
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 14
+
+.stops working
+.start_pos is 0
+ column is 1
+
+.start_pos is 0
+ column is 49
+start_pos is 0
+ column is 98
+start_pos is 0
+ column i.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 10
+start_pos is 0
+ column is 1
+start_pos is 2
+ column is 14
+
+.MODEM:STARTUP
+.at
+start_pos is 0
+ column is 4
+start_pos is 5
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,1start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+start_pos is 0
+ column is 8
+
+.+CSQ: 20, 0start_pos is 0
+ column is 12
+start_pos is 13
+ column is 3
+
+.OK
+.at+GLTS=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+start_pos is 16
+ column is 3
+
+.OK
+.at+cnmi=2,2,0,0,0
+start_pos is 0
+ column is 19
+start_pos is 20
+ column is 3
+
+.OK
+.at+xiic=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.SM_INIT_OK
+at+csq
+start_pos is 0
+ column is 8
+
+.+CSQ: 20, 0start_pos is 0
+ column is 12
+start_pos is 13
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 34
+
+.+GLTS: 20/01/18,17:04:14/GMT+5:30
+.at+cmgf=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.
+.+PBREADY
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+start_pos is 16
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 15
+
+.SM_MSG_INIT_OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 27
+
+.Battery voltage reading...
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.Cur_Bat_Voltage = 3.7284 volts
+
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 26
+
+.Battery_Voltage_Level=35%
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.reading moisture sensor data...
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 34
+
+.sensor_Voltage is = 2.7999 volts
+
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 14
+
+.stops working
+.start_pos is 0
+ column is 1
+
+.start_pos is 0
+ column is 49
+start_pos is 0
+ column is 98
+start_pos is 0
+ column i.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 10
+start_pos is 0
+ column is 1
+start_pos is 2
+ column is 14
+
+.MODEM:STARTUP
+.at
+start_pos is 0
+ column is 4
+start_pos is 5
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,1start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+start_pos is 0
+ column is 8
+
+.+CSQ: 20, 99start_pos is 0
+ column is 13
+start_pos is 14
+ column is 3
+
+.OK
+.at+GLTS=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+start_pos is 16
+ column is 3
+
+.OK
+.at+cnmi=2,2,0,0,0
+start_pos is 0
+ column is 19
+start_pos is 20
+ column is 3
+
+.OK
+.at+xiic=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.SM_INIT_OK
+at+csq
+start_pos is 0
+ column is 8
+
+.+CSQ: 20, 99start_pos is 0
+ column is 13
+start_pos is 14
+ column is 3
+
+.OK
+.
+.+PBREADY
+.at+cmgf=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+start_pos is 16
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 15
+
+.SM_MSG_INIT_OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 27
+
+.Battery voltage reading...
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 34
+
+.+GLTS: 20/01/18,17:04:48/GMT+5:30
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.Cur_Bat_Voltage = 3.7251 volts
+
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 26
+
+.Battery_Voltage_Level=34%
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.reading moisture sensor data...
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 34
+
+.sensor_Voltage is = 2.7999 volts
+
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 14
+
+.stops working
+.start_pos is 0
+ column is 1
+
+.start_pos is 0
+ column is 49
+start_pos is 0
+ column is 98
+start_pos is 0
+ column .start_pos is 0
+ column is 1
+start_pos is 2
+ column is 10
+start_pos is 0
+ column is 1
+start_pos is 2
+ column is 14
+
+.MODEM:STARTUP
+.at
+start_pos is 0
+ column is 4
+start_pos is 5
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,2start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+creg?
+start_pos is 0
+ column is 10
+
+.+CREG: 0,1start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+start_pos is 0
+ column is 8
+
+.+CSQ: 16, 0start_pos is 0
+ column is 12
+start_pos is 13
+ column is 3
+
+.OK
+.at+GLTS=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+start_pos is 16
+ column is 3
+
+.OK
+.at+cnmi=2,2,0,0,0
+start_pos is 0
+ column is 19
+start_pos is 20
+ column is 3
+
+.OK
+.
+.+PBREADY
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 34
+
+.+GLTS: 20/01/18,17:05:19/GMT+5:30
+.at+xiic=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.SM_INIT_OK
+at+csq
+start_pos is 0
+ column is 8
+
+.+CSQ: 16, 0start_pos is 0
+ column is 12
+start_pos is 13
+ column is 3
+
+.OK
+.at+cmgf=1
+start_pos is 0
+ column is 11
+start_pos is 12
+ column is 3
+
+.OK
+.at+cscs="HEX"
+start_pos is 0
+ column is 15
+start_pos is 16
+ column is 3
+
+.OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 15
+
+.SM_MSG_INIT_OK
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 27
+
+.Battery voltage reading...
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.Cur_Bat_Voltage = 3.7235 volts
+
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 26
+
+.Battery_Voltage_Level=34%
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 32
+
+.reading moisture sensor data...
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 34
+
+.sensor_Voltage is = 2.7999 volts
+
+.start_pos is 0
+ column is 1
+start_pos is 2
+ column is 14
+
+.stops working
+.
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

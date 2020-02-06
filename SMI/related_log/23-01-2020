@@ -1,0 +1,1251 @@
+
+.MODEM:STARTUP
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.*********************************************
+.
+.Authorised Mobile No: +918660366534
+
+.
+.Destination Mobile No: 8660366534
+
+.
+.Number of SMS per Day: 99
+
+.
+.*********************************************
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 11, 6
+.OK
+.at+GLTS=1
+
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 11, 6
+.OK
+.at+cmgf=1
+
+.OK
+.
+.+GLTS: 20/01/23,12:28:55/GMT+5:30
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.+PBREADY
+.
+.Cur_Bat_Voltage = 4.2540 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 102
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 12H::29M::15S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/23,12:29:30+22"
+.4363736767672037323638
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,12:29:30+22"
+.4363736767672037323638383056204C6F77204D6F697374757265.
+.+CMGS: 102
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Ccsggg 726880V Low Moisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case NOCMD
+.
+.No Commands Match
+.at+cmgs="8660366534"
+
+.> 436F6D6D616E6420466F726D61742057726F6E6721212120506C6561736520656E7465722076616C696420666F726D6174.
+.> 
+.+CMGS: 103
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::36S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/23,12:30:33+22"
+.4353504420
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,12:30:33+22"
+.43535044206520656E7465722076616C696420666F726D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPD e enter valid format
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPD e enter valid format
+
+.
+.temp_data-> CSPD e 
+
+.
+.msgcmd->CSPD  len->4
+
+.
+.data->   len->1
+
+.
+.msg_data_changed: please enter correct format CSPD<space><2digitnumber>
+
+.at+cmgs="8660366534"
+
+.> 706C6561736520656E74657220636F727265637420666F726D617420435350443C73706163653E3C3264696769746E756D62
+.> 65723E.
+.> 
+.+CMGS: 104
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::56S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CMT: "+918050375067", ,"2020/01/23,12:32:19+22"
+.487A686868736B63626A736867627A6B6B6A64686862636A6A
+.
+.receive_msg_buf = +CMT: "+918050375067", ,"2020/01/23,12:32:19+22"
+.487A686868736B636273706163653E3C3264696769746E756D62
+.6420666F726D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.Rec_Mbl_No = +918050375067
+.
+.Rec_Msg = Hzhhhskcbspace><2digitnumb
+.
+.User was not Authorised
+.
+.+CMT: "+918660366534", ,"2020/01/23,12:33:17+22"
+.43414D4E202B393138363630333636353334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,12:33:17+22"
+.43414D4E202B3931383636303336363533346273706163653E3C3264696769746E756D62
+.6420666F726D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +918660366534bspace><2digitnumb
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +918660366534bspace><2digitnumb
+
+.
+.temp_data-> CAMN +918660366534
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->+918660366534  len->13
+
+.
+.Recieve Authorised No.-> +918660366534
+
+.
+.0,data written successfully
+.
+.msg_data_changed: Authorised mobile Number Set to +918660366534
+
+.at+cmgs="8660366534"
+
+.> 417574686F7269736564206D6F62696C65204E756D6265722053657420746F202B393138363630333636353334.
+.> 
+.+CMGS: 105
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::2M::43S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/23,12:34:03+22"
+.43414D4E202B393138363630333636353334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,12:34:03+22"
+.43414D4E202B393138363630333636353334353334.
+.336363533346273706163653E3C3264696769746E756D62
+.6420666F726D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +918660366534534
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +918660366534534
+
+.
+.temp_data-> CAMN +918660366534
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->+918660366534  len->13
+
+.
+.Recieve Authorised No.-> +918660366534
+
+.
+.0,data written successfully
+.
+.msg_data_changed: Authorised mobile Number Set to +918660366534
+
+.at+cmgs="8660366534"
+
+.> 417574686F7269736564206D6F62696C65204E756D6265722053657420746F202B393138363630333636353334.
+.> 
+.+CMGS: 106
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::46S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/23,12:34:44+22"
+.43444D4E2038363630333636353334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,12:34:44+22"
+.43444D4E2038363630333636353334333636353334.
+.420666F726D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.
+.D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CDMN 8660366534366534
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CDMN
+.
+.enter to call_fun_change
+.
+.var CDMN 8660366534366534
+
+.
+.temp_data-> CDMN 8660366534
+
+.
+.msgcmd->CDMN  len->4
+
+.
+.data->8660366534  len->10
+
+.
+.Recieve Destination No.-> 8660366534
+
+.
+.0,data written successfully
+.
+.msg_data_changed: Destination mobile Number Set to 8660366534
+
+.at+cmgs="8660366534"
+
+.> 44657374696E6174696F6E206D6F62696C65204E756D6265722053657420746F2038363630333636353334.
+.> 
+.+CMGS: 107
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::43S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/23,12:35:14+22"
+.43535044203939
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,12:35:14+22"
+.435350442039396F2038363630333636353334.
+.636353334333636353334.
+.420666F726D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.
+.D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPD 99o 8660366534
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPD 99o 8660366534
+
+.
+.temp_data-> CSPD 99
+
+.
+.msgcmd->CSPD  len->4
+
+.
+.data->99  len->2
+
+.
+.Recieve SMS per Day No.-> 99
+
+.
+.0,data written successfully
+.
+.msg_data_changed: Number of SMS/Day Set to 99
+
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F4461792053657420746F203939.
+.> 
+.+CMGS: 108
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::27S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/23,12:35:49+22"
+.43535048203630
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,12:35:49+22"
+.43535048203630+22"
+.435350442039396F2038363630333636353334.
+.636353334333636353334.
+.420666F726D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.
+.D6174.
+.7204D6F697374757265.
+.+CMGS: 102
+.
+.
+.
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPH 60..
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPH 60..
+
+.
+.temp_data-> CSPH 60
+
+.
+.msgcmd->CSPH  len->4
+
+.
+.data->60  len->2
+
+.
+.Recieve SMS per Hour No.-> 60
+
+.
+.msg_data_changed: Number of SMS/Hour Set to 60
+
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F486F75722053657420746F203630.
+.> 
+.+CMGS: 109
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::36S
+.
+.Device wakeup after 0H::2M::59S
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.*********************************************
+.
+.Authorised Mobile No: +918660366534
+.
+.Destination Mobile No: 8660366534
+.
+.Number of SMS per Day: 99
+.
+.*********************************************
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup time after RTC Time change 0H::14M::32S
+.
+.Device wakeup after 0H::14M::32S
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.+GLTS: 20/01/23,16:04:27/GMT+5:30
+.
+.+PBREADY
+.
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+.
+.MODEM:STARTUP
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.*********************************************
+.
+.Authorised Mobile No: +918660366534
+.
+.Destination Mobile No: 8660366534
+.
+.Number of SMS per Day: 99
+.
+.*********************************************
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::14M::32S
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 23, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.+GLTS: 20/01/23,21:27:12/GMT+5:30
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 23, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0621 volts
+
+.
+.Battery_Voltage_Level=86%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=86%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D3836252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 117
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 21H::27M::32S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::14M::32S
+.
+.+CMT: "+918660366534", ,"2020/01/23,21:28:34+22"
+.43535044203234
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,21:28:34+22"
+.4353504420323420322E383056204C6F77204D6F697374757265.
+.+CMGS: 117
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPD 24 2.80V Low Moisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPD 24 2.80V Low Moisture
+
+.
+.temp_data-> CSPD 24
+
+.
+.msgcmd->CSPD  len->4
+
+.
+.data->24  len->2
+
+.
+.Recieve SMS per Day No.-> 24
+
+.
+.0,data written successfully
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 1H::0M::0S
+.
+.msg_data_changed: Number of SMS/Day Set to 24
+
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F4461792053657420746F203234.
+.> 
+.+CMGS: 118
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::17S
+.
+.All Timers stops working
+.
+.Device wakeup after 1H::0M::0S
+.
+.+CMT: "+918660366534", ,"2020/01/23,21:31:40+22"
+.43535048203630
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,21:31:40+22"
+.435350482036302"
+.4353504420323420322E383056204C6F77204D6F697374757265.
+.+CMGS: 117
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPH 60.
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPH 60.
+
+.
+.temp_data-> CSPH 60
+
+.
+.msgcmd->CSPH  len->4
+
+.
+.data->60  len->2
+
+.
+.Recieve SMS per Hour No.-> 60
+
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::1M::0S
+.
+.msg_data_changed: Number of SMS/Hour Set to 60
+
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F486F75722053657420746F203630.
+.> 
+.+CMGS: 119
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::6S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CMT: "+918660366534", ,"2020/01/23,21:32:27+22"
+.43444D4E2038363630333636353334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,21:32:27+22"
+.43444D4E203836363033363635333436302"
+.4353504420323420322E383056204C6F77204D6F697374757265.
+.+CMGS: 117
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CDMN 866036653460.
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CDMN
+.
+.enter to call_fun_change
+.
+.var CDMN 866036653460.
+
+.
+.temp_data-> CDMN 8660366534
+
+.
+.msgcmd->CDMN  len->4
+
+.
+.data->8660366534  len->10
+
+.
+.Recieve Destination No.-> 8660366534
+
+.
+.0,data written successfully
+.
+.msg_data_changed: Destination mobile Number Set to 8660366534
+
+.at+cmgs="8660366534"
+
+.> 44657374696E6174696F6E206D6F62696C65204E756D6265722053657420746F2038363630333636353334.
+.> 
+.+CMGS: 120
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.Device Already In Sleep Mode
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 22, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0619 volts
+
+.
+.Battery_Voltage_Level=86%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=86%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3836252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 121
+.OK
+.
+.message_count = 2
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CMT: "+918660366534", ,"2020/01/23,21:34:02+22"
+.43535044203939
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,21:34:02+22"
+.43535044203939204D6F697374757265.
+.334.
+.63635333436302"
+.4353504420323420322E383056204C6F77204D6F697374757265.
+.+CMGS: 117
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPD 99 Moisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPD 99 Moisture
+
+.
+.temp_data-> CSPD 99
+
+.
+.msgcmd->CSPD  len->4
+
+.
+.data->99  len->2
+
+.
+.Recieve SMS per Day No.-> 99
+
+.
+.0,data written successfully
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::14M::32S
+.
+.msg_data_changed: Number of SMS/Day Set to 99
+
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F4461792053657420746F203939.
+.> 
+.+CMGS: 122
+.OK
+.
+.message_count = 2
+.
+.SM_MSG_SENT_OK
+.
+.+CALV: 0
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::2S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::14M::32S
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 28, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0547 volts
+
+.
+.Battery_Voltage_Level=85%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=85%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3835252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 123
+.OK
+.
+.message_count = 3
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::14M::32S
+.
+.+CMT: "+918660366534", ,"2020/01/23,21:36:23+22"
+.43535048203130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,21:36:23+22"
+.43535048203130204D6F697374757265.
+.04D6F697374757265.
+.334.
+.63635333436302"
+.4353504420323420322E383056204C6F77204D6F697374757265.
+.+CMGS: 117
+.
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPH 10 Moisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPH 10 Moisture
+
+.
+.temp_data-> CSPH 10
+
+.
+.msgcmd->CSPH  len->4
+
+.
+.data->10  len->2
+
+.
+.Recieve SMS per Hour No.-> 10
+
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::6M::0S
+.
+.msg_data_changed: Number of SMS/Hour Set to 10
+
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F486F75722053657420746F203130.
+.> 
+.Device wakeup!!!
+.
+.+CMGS: 124
+.OK
+.at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0672 volts
+
+.
+.Battery_Voltage_Level=85%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=85%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3835252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 125
+.OK
+.
+.message_count = 3
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::2M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::6M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 26, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0588 volts
+
+.
+.Battery_Voltage_Level=85%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=85%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3835252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 126
+.OK
+.
+.message_count = 4
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::6M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::6M::0S
+.
+.GPRS DISCONNECTION
+.
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

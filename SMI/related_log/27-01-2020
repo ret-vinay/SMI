@@ -1,0 +1,646 @@
+
+.MODEM:STARTUP
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.*********************************************
+.
+.Authorised Mobile No: +918660366534
+.
+.Destination Mobile No: 8660366534
+.
+.Number of SMS per Day: 99
+.
+.*********************************************
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::14M::32S
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 17, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 17, 0
+.OK
+.
+.+PBREADY
+.at+cmgf=1
+
+.OK
+.
+.+GLTS: 20/01/27,10:43:00/GMT+5:30
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2554 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=100%, moisture 2.80V Low Moisture
+
+.
+.message_count 0 no_of_sms 99
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 139
+.OK
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 10H::43M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::14M::32S
+.
+.+CMT: "+918660366534", ,"2020/01/27,10:43:34+22"
+.43535048203036
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/27,10:43:34+22"
+.435359737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 139
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSYsture 2.80V Low Moisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case NOCMD
+.
+.No Commands Match
+.
+.message_count 0
+.
+.message_count 0 no_of_sms 99
+.at+cmgs="8660366534"
+
+.> 436F6D6D616E6420466F726D61742057726F6E6721212120506C6561736520656E7465722076616C696420666F726D6174.
+.> 
+.+CMGS: 140
+.OK
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.Device Already In Sleep Mode
+.
+.+CMT: "+918660366534", ,"2020/01/27,10:44:08+22"
+.43535048203036
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/27,10:44:08+22"
+.43535048203036656E7465722076616C696420666F726D6174.
+.F77204D6F697374757265.
+.+CMGS: 139
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPH 06enter valid format
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPH 06enter valid format
+
+.
+.temp_data-> CSPH 06
+
+.
+.msgcmd->CSPH  len->4
+
+.
+.data->06  len->2
+
+.
+.Recieve SMS per Hour No.-> 06
+
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::10M::0S
+.
+.msg_data_changed: Number of SMS/Hour Set to 06
+
+.
+.message_count -1
+.
+.message_count 0
+.
+.message_count 0 no_of_sms 6
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F486F75722053657420746F203036.
+.> 
+.+CMGS: 141
+.OK
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::5S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::10M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 99, 99
+.OK
+.at+csq
+
+.+CSQ: 23, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2636 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.
+.message_count 1 no_of_sms 6
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.ERROR
+.
+.message_count 1 no_of_sms 6
+.36351A.="8660366534"
+
+.message_count 1 no_of_sms 6
+.
+.MODEM:STARTUP
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.*********************************************
+.
+.Authorised Mobile No: +918660366534
+.
+.Destination Mobile No: 8660366534
+.
+.Number of SMS per Day: 99
+.
+.*********************************************
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::14M::32S
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+..

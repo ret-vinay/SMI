@@ -1,0 +1,1832 @@
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 27, 99
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+
+.+CSQ: 27, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Cur_Bat_Voltage = 0.0000 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.moisture sensor battery is low 0%
+
+.at+cmgs="8660366534"
+
+.> 6D6F6973747572652073656E736F722062617474657279206973206C6F77203025.
+.+CMGS: 14
+.OK
+.
+.stops working
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+....................................................................................
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 31, 0
+.OK
+.at+GLTS=1
+
+.OK
+.
+.+PBREADY
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 31, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Cur_Bat_Voltage = 3.8205 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=49%, moisture 2.80V Low Moisture
+
+..................................................................................
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.
+.+GLTS: 20/01/06,23:15:03/GMT+5:30
+.at+GLTS=1
+
+.OK
+.
+.+PBREADY
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Cur_Bat_Voltage = 3.8076 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=47%, moisture 2.80V Low Moisture
+
+.........................................................................................
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 26, 0
+.OK
+.
+.+PBREADY
+.
+.+GLTS: 20/01/07,00:00:16/GMT+5:30
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Cur_Bat_Voltage = 3.7791 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=42%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D3432252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 15
+.OK
+.
+.stops working
+.at+csq
+
+.+CSQ: 25, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Cur_Bat_Voltage = 3.7744 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=42%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3432252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 16
+.OK
+.
+.stops working
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Cur_Bat_Voltage = 3.7741 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=42%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3432252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 17
+.OK
+.
+.stops working
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+................................................................................
+.
+.MODEM:STARTUP
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at
+
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at+csq
+
+.+CSQ: 31, 0
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.
+.start neoway_at_stream timer
+.
+.+GLTS: 20/01/07,11:00:16/GMT+5:30
+.
+.+PBREADY
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at+GLTS=1
+
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at+cscs="HEX"
+
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+.
+.start neoway_to_send_at timer
+.
+.calling Neo_ATSendCmd function
+.at+xiic=1
+
+.OK
+.
+.receive ok response
+.
+.calling Neo_ATSendOK function
+.SM_INIT_OK
+
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.start neoway_at_stream timer
+.
+.calling Neo_SendNextAT function
+...........................................................................................
+.
+.MODEM:STARTUP
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 31, 0
+.OK
+.
+.+GLTS: 20/01/07,11:15:32/GMT+5:30
+.
+.+PBREADY
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+GLTS=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 31, 0
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cmgf=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.Cur_Bat_Voltage = 3.7247 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.neoway_at_stream running
+.
+.Device ON Battery=34%, moisture 2.80V Low Moisture
+
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 30, 99
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cmgf=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.Cur_Bat_Voltage = 3.7247 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.neoway_at_stream running
+.
+.Battery=34%, moisture 2.80V Low Moisture
+
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 31, 99
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cmgf=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.Cur_Bat_Voltage = 3.7247 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.neoway_at_stream running
+.
+.Battery=34%, moisture 2.80V Low Moisture
+
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 31, 99
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cmgf=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.Cur_Bat_Voltage = 3.7230 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.neoway_at_stream running
+.
+.Battery=34%, moisture 2.80V Low Moisture
+
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 30, 99
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cmgf=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.neoway_at_stream running
+.....................................................................................
+.
+.MODEM:STARTUP
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 31, 0
+.OK
+.
+.+GLTS: 20/01/07,11:17:52/GMT+5:30
+.
+.+PBREADY
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+GLTS=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 31, 0
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cmgf=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.Cur_Bat_Voltage = 3.7247 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.neoway_at_stream running
+.
+.Device ON Battery=34%, moisture 2.80V Low Moisture
+
+.........................................................................................
+..
+.MODEM:STARTUP
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 31, 99
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+GLTS=1
+
+.OK
+.
+.+GLTS: 20/01/07,12:59:34/GMT+5:30
+.
+.+PBREADY
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+csq
+
+.+CSQ: 31, 99
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cmgf=1
+
+.OK
+.
+.neoway_at_stream running
+.
+.neoway_to_send_at running
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.neoway_at_stream running
+.
+.Cur_Bat_Voltage = 3.7077 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.neoway_at_stream running
+.
+.Device ON Battery=31%, moisture 2.80V Low Moisture
+
+.......................................................................................
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 29, 0
+.OK
+.
+.+GLTS: 20/01/07,15:23:50/GMT+5:30
+.
+.+PBREADY
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 29, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Cur_Bat_Voltage = 3.6791 volts
+
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=27%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D3237252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 19
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 15H::24M::13S
+.
+.Device wakeup after 0H::0M::60S
+.........................................................................................
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 29, 99
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.+GLTS: 20/01/07,15:49:38/GMT+5:30
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 29, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.6561 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=24%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D3234252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 21
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 15H::49M::54S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.
+. and stops working
+........................................................................................
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/07,16:05:48/GMT+5:30
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.6389 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=21%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D3231252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 23
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 16H::6M::4S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.6754 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=21%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3231252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 24
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::15S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.6754 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=21%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3231252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 25
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::15S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.6754 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=21%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D3231252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 26
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::13S
+.
+.Device wakeup after 0H::0M::59S
+..........................................................................................
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 31, 99
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/07,17:34:34/GMT+5:30
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+
+.+CSQ: 31, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8382 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=52%, moisture 2.80V Low Moisture
+
+.at+csq
+
+.+CSQ: 31, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8179 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=48%, moisture 2.80V Low Moisture
+
+.at+csq
+
+.+CSQ: 29, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.+CMT: "+918660366534", ,"2020/01/07,17:35:03+22"
+.43535044203234
+.
+.Cur_Bat_Voltage = 3.8010 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/07,17:35:03+22"
+.43535044203234
+.
+.receive_msg_buf = -0xfc4b024
+.
+.Battery=46%, moisture 2.80V Low Moisture
+
+.at+csq
+
+.+CSQ: 29, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8404 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=46%, moisture 2.80V Low Moisture
+
+.at+csq
+
+.+CSQ: 31, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8349 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=46%, moisture 2.80V Low Moisture
+
+.at+csq
+
+.+CSQ: 28, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 3.8411 volts
+
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=46%, moisture 2.80V Low Moisture
+
+.at+csq
+
+.+CSQ: 26, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+
+
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/07,17:36:08+22"
+.43444D4E20313233343536373839303234
+.
+
+.+CMT: "+918660366534", ,"2020/01/07,17:36:48+22"
+.486873676868736276736767672073686A7320736A6B6B6E736220736A6A76426B6B78206A6A6A67676869736E206A6A68626A736B6B6A6273
+.
+
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/07,17:36:48+22"
+.486873676868736276736767672073686A7320736A6B6B6E736220736A6A76426B6B78206A6A6A67676869736E206A6A68626A736B6B6A6273
+.
+.
+
+..

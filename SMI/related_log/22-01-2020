@@ -1,0 +1,4533 @@
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/21,22:23:50/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2607 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:24:44+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:24:44+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->  len->0
+
+.
+.Worng CAMN Command Format
+
+.
+.msg_data_changed Command Format Worng!!!
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.+GLTS: 20/01/21,22:28:20/GMT+5:30
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2544 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:28:53+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:28:53+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0
+
+.
+.i->1
+
+.
+.i->2
+
+.
+.i->3
+
+.
+.i->4
+
+.
+.i->6
+
+.
+.i->7
+
+.
+.i->8
+
+.
+.i->9
+
+.
+.i->10
+
+.
+.i->11
+
+.
+.i->12
+
+.
+.i->13
+
+.
+.i->14
+
+.
+.i->15
+
+.
+.i->16
+
+.
+.i->17
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->  len->0
+
+.
+.Worng CAMN Command Format
+
+.
+.msg_data_changed Command Format Worng!!!
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/21,22:34:58/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2601 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:35:24+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:35:24+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->A
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->6 data[i]->9
+
+.
+.i->7 data[i]->1
+
+.
+.i->8 data[i]->9
+
+.
+.i->9 data[i]->8
+
+.
+.i->10 data[i]->7
+
+.
+.i->11 data[i]->6
+
+.
+.i->12 data[i]->5
+
+.
+.i->13 data[i]->4
+
+.
+.i->14 data[i]->3
+
+.
+.i->15 data[i]->2
+
+.
+.i->16 data[i]->1
+
+.
+.i->17 data[i]->0
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->  len->0
+
+.
+.Worng CAMN Command Format
+
+.
+.msg_data_changed Command Format Worng!!!
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.+GLTS: 20/01/21,22:42:06/GMT+5:30
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2624 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:42:27+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:42:27+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->A
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->6 data[i]->9
+
+.
+.i->7 data[i]->1
+
+.
+.i->8 data[i]->9
+
+.
+.i->9 data[i]->8
+
+.
+.i->10 data[i]->7
+
+.
+.i->11 data[i]->6
+
+.
+.i->12 data[i]->5
+
+.
+.i->13 data[i]->4
+
+.
+.i->14 data[i]->3
+
+.
+.i->15 data[i]->2
+
+.
+.i->16 data[i]->1
+
+.
+.i->17 data[i]->0
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->919876543210  len->12
+
+.
+.Worng CAMN Command Format
+
+.
+.msg_data_changed Command Format Worng!!!
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 20, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/21,22:45:40/GMT+5:30
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+
+.+CSQ: 20, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2478 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:46:00+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:46:00+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->A
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->+
+
+.
+.i->6 data[i]->9
+
+.
+.i->7 data[i]->1
+
+.
+.i->8 data[i]->9
+
+.
+.i->9 data[i]->8
+
+.
+.i->10 data[i]->7
+
+.
+.i->11 data[i]->6
+
+.
+.i->12 data[i]->5
+
+.
+.i->13 data[i]->4
+
+.
+.i->14 data[i]->3
+
+.
+.i->15 data[i]->2
+
+.
+.i->16 data[i]->1
+
+.
+.i->17 data[i]->0
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->+919876543210  len->13
+
+.
+.Recieve Authorised No.-> +919876543210
+
+.
+.msg_data_changed Authorised mobile Number Set to +919876543210
+
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+.
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/21,22:23:50/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2607 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:24:44+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:24:44+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->  len->0
+
+.
+.Worng CAMN Command Format
+
+.
+.msg_data_changed Command Format Worng!!!
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.+GLTS: 20/01/21,22:28:20/GMT+5:30
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2544 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:28:53+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:28:53+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0
+
+.
+.i->1
+
+.
+.i->2
+
+.
+.i->3
+
+.
+.i->4
+
+.
+.i->6
+
+.
+.i->7
+
+.
+.i->8
+
+.
+.i->9
+
+.
+.i->10
+
+.
+.i->11
+
+.
+.i->12
+
+.
+.i->13
+
+.
+.i->14
+
+.
+.i->15
+
+.
+.i->16
+
+.
+.i->17
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->  len->0
+
+.
+.Worng CAMN Command Format
+
+.
+.msg_data_changed Command Format Worng!!!
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/21,22:34:58/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2601 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:35:24+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:35:24+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->A
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->6 data[i]->9
+
+.
+.i->7 data[i]->1
+
+.
+.i->8 data[i]->9
+
+.
+.i->9 data[i]->8
+
+.
+.i->10 data[i]->7
+
+.
+.i->11 data[i]->6
+
+.
+.i->12 data[i]->5
+
+.
+.i->13 data[i]->4
+
+.
+.i->14 data[i]->3
+
+.
+.i->15 data[i]->2
+
+.
+.i->16 data[i]->1
+
+.
+.i->17 data[i]->0
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->  len->0
+
+.
+.Worng CAMN Command Format
+
+.
+.msg_data_changed Command Format Worng!!!
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.+GLTS: 20/01/21,22:42:06/GMT+5:30
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 26, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2624 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:42:27+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:42:27+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->A
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->6 data[i]->9
+
+.
+.i->7 data[i]->1
+
+.
+.i->8 data[i]->9
+
+.
+.i->9 data[i]->8
+
+.
+.i->10 data[i]->7
+
+.
+.i->11 data[i]->6
+
+.
+.i->12 data[i]->5
+
+.
+.i->13 data[i]->4
+
+.
+.i->14 data[i]->3
+
+.
+.i->15 data[i]->2
+
+.
+.i->16 data[i]->1
+
+.
+.i->17 data[i]->0
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->919876543210  len->12
+
+.
+.Worng CAMN Command Format
+
+.
+.msg_data_changed Command Format Worng!!!
+..
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 20, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/21,22:45:40/GMT+5:30
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+
+.+CSQ: 20, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2478 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,22:46:00+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,22:46:00+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->A
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->+
+
+.
+.i->6 data[i]->9
+
+.
+.i->7 data[i]->1
+
+.
+.i->8 data[i]->9
+
+.
+.i->9 data[i]->8
+
+.
+.i->10 data[i]->7
+
+.
+.i->11 data[i]->6
+
+.
+.i->12 data[i]->5
+
+.
+.i->13 data[i]->4
+
+.
+.i->14 data[i]->3
+
+.
+.i->15 data[i]->2
+
+.
+.i->16 data[i]->1
+
+.
+.i->17 data[i]->0
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->+919876543210  len->13
+
+.
+.Recieve Authorised No.-> +919876543210
+
+.
+.msg_data_changed Authorised mobile Number Set to +919876543210
+
+.
+.GPRS DISCONNECTION
+.
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/21,23:38:47/GMT+5:30
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+
+.+CSQ: 27, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2591 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.stops working
+.
+.+CMT: "+918660366534", ,"2020/01/21,23:39:05+22"
+.43414D4E202B393139383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,23:39:05+22"
+.43414D4E202B393139383736353433323130
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +919876543210
+
+.
+.temp_data-> CAMN +919876543210
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->A
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->+
+
+.
+.i->6 data[i]->9
+
+.
+.i->7 data[i]->1
+
+.
+.i->8 data[i]->9
+
+.
+.i->9 data[i]->8
+
+.
+.i->10 data[i]->7
+
+.
+.i->11 data[i]->6
+
+.
+.i->12 data[i]->5
+
+.
+.i->13 data[i]->4
+
+.
+.i->14 data[i]->3
+
+.
+.i->15 data[i]->2
+
+.
+.i->16 data[i]->1
+
+.
+.i->17 data[i]->0
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->+919876543210  len->13
+
+.
+.Recieve Authorised No.-> +919876543210
+
+.
+.msg_data_changed: Authorised mobile Number Set to +919876543210
+
+.
+.+CMT: "+918660366534", ,"2020/01/21,23:39:40+22"
+.43444D4E2039383736353433323130
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,23:39:40+22"
+.43444D4E20393837363534333231302B393139383736353433323130
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CDMN 9876543210+919876543210
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CDMN
+.
+.enter to call_fun_change
+.
+.var CDMN 9876543210+919876543210
+
+.
+.temp_data-> CDMN 9876543210
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->D
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->9
+
+.
+.i->6 data[i]->8
+
+.
+.i->7 data[i]->7
+
+.
+.i->8 data[i]->6
+
+.
+.i->9 data[i]->5
+
+.
+.i->10 data[i]->4
+
+.
+.i->11 data[i]->3
+
+.
+.i->12 data[i]->2
+
+.
+.i->13 data[i]->1
+
+.
+.i->14 data[i]->0
+
+.
+.msgcmd->CDMN  len->4
+
+.
+.data->9876543210  len->10
+
+.
+.Recieve Destination No.-> 9876543210
+
+.
+.msg_data_changed: Destination mobile Number Set to 9876543210
+
+.
+.+CMT: "+918660366534", ,"2020/01/21,23:40:11+22"
+.43535044203939
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,23:40:11+22"
+.43535044203939
+.2"
+.43444D4E20393837363534333231302B393139383736353433323130
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPD 99
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPD 99
+
+.
+.temp_data-> CSPD 99
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->S
+
+.
+.i->2 MSGCMD[i]->P
+
+.
+.i->3 MSGCMD[i]->D
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->9
+
+.
+.i->6 data[i]->9
+
+.
+.msgcmd->CSPD  len->4
+
+.
+.data->99  len->2
+
+.
+.Recieve SMS per Day No.-> 99
+
+.
+.msg_data_changed: Number of SMS/Day Set to 99
+
+.
+.+CMT: "+918660366534", ,"2020/01/21,23:40:49+22"
+.43535048203630
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,23:40:49+22"
+.43535048203630+22"
+.43535044203939
+.2"
+.43444D4E20393837363534333231302B393139383736353433323130
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPH 60..
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPH 60..
+
+.
+.temp_data-> CSPH 60.
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->S
+
+.
+.i->2 MSGCMD[i]->P
+
+.
+.i->3 MSGCMD[i]->H
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->6
+
+.
+.i->6 data[i]->0
+
+.
+.i->7 data[i]->.
+
+.
+.msgcmd->CSPH  len->4
+
+.
+.data->60.  len->3
+
+.
+.msg_data_changed: please enter correct format CSPH<space><two_digit_no>
+
+.
+.+CMT: "+918660366534", ,"2020/01/21,23:41:43+22"
+.43535048203630
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/21,23:41:43+22"
+.43535048203630digit_no>
+
+.48203630+22"
+.43535044203939
+.2"
+.43444D4E20393837363534333231302B393139383736353433323130
+.
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPH 60
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPH 60
+
+.
+.temp_data-> CSPH 60
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->S
+
+.
+.i->2 MSGCMD[i]->P
+
+.
+.i->3 MSGCMD[i]->H
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->6
+
+.
+.i->6 data[i]->0
+
+.
+.msgcmd->CSPH  len->4
+
+.
+.data->60  len->2
+
+.
+.Recieve SMS per Hour No.-> 60
+
+.
+.msg_data_changed: Number of SMS/Hour Set to 60
+
+.
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.
+.file_name is amn.txt
+
+.
+.-9,Error while reading File
+.
+.-10,file not closed successfully
+.
+.-9, Again Error while reading File
+.
+.No_Data_Write_Function
+
+.
+.file_name is amn.txt
+
+.
+.Neoway_delete_File_Function
+
+.
+.-9,file not deleted successfully
+.
+.0,data written successfully
+.
+.written data is: +918660366534
+.
+.written data lenth is: 13
+.
+.0,file commit successfully
+.
+.0,file closed successfully
+.
+.0,file red successfully
+.
+.readData is: 
+.
+.lenth is 0
+.
+.-10,file not closed successfully
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.+GLTS: 20/01/22,13:03:27/GMT+5:30
+.
+.+PBREADY
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+.MODEM:STARTUP
+.
+.file_name is amn.txt
+
+.
+.0,file red successfully
+.
+.readData is: +918660366534
+.
+.lenth is 13
+.
+.0,file closed successfully
+.
+.file_name is dmn.txt
+
+.
+.-9,Error while reading File
+.
+.-10,file not closed successfully
+.
+.-9, Again Error while reading File
+.
+.No_Data_Write_Function
+
+.
+.file_name is dmn.txt
+
+.
+.Neoway_delete_File_Function
+
+.
+.-9,file not deleted successfully
+.
+.0,data written successfully
+.
+.written data is: 8660366534
+.
+.written data lenth is: 10
+.
+.0,file commit successfully
+.
+.0,file closed successfully
+.
+.0,file red successfully
+.
+.readData is: 
+.
+.lenth is 0
+.
+.-10,file not closed successfully
+.
+.file_name is spd.txt
+
+.
+.-9,Error while reading File
+.
+.-10,file not closed successfully
+.
+.-9, Again Error while reading File
+.
+.No_Data_Write_Function
+
+.
+.file_name is spd.txt
+
+.
+.Neoway_delete_File_Function
+
+.
+.-9,file not deleted successfully
+.
+.0,data written successfully
+.
+.written data is: 99
+.
+.written data lenth is: 2
+.
+.0,file commit successfully
+.
+.0,file closed successfully
+.
+.0,file red successfully
+.
+.readData is: 
+.
+.lenth is 0
+.
+.-10,file not closed successfully
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.+PBREADY
+.
+.+GLTS: 20/01/22,13:08:08/GMT+5:30
+.
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.
+.file_name is amn.txt
+
+.
+.0,file red successfully
+.
+.readData is: +918660366534
+.
+.lenth is 13
+.
+.0,file closed successfully
+.
+.file_name is dmn.txt
+
+.
+.0,file red successfully
+.
+.readData is: 8660366534
+.
+.lenth is 10
+.
+.0,file closed successfully
+.
+.file_name is spd.txt
+
+.
+.0,file red successfully
+.
+.readData is: 99
+.
+.lenth is 2
+.
+.0,file closed successfully
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.+GLTS: 20/01/22,13:11:11/GMT+5:30
+.
+.+PBREADY
+.
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+GLTS: 20/01/22,15:59:23/GMT+5:30
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.
+.+PBREADY
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2620 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 57
+.OK
+.
+.SM_MSG_SENT_OK
+.at+cscs="gsm"
+
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 15H::59M::55S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,16:00:41+22"
+.CAMN +918660366534
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,16:00:41+22"
+.CAMN +918660366534322E383056204C6F77204D6F697374757265.
+.+CMGS: 57
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = 
+.
+.enter to check_in_msg_task fun
+.
+.No Commands Match
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2618 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 58
+.OK
+.
+.SM_MSG_SENT_OK
+.at+cscs="gsm"
+
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,16:01:45+22"
+.CAMN +918660366534
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,16:01:45+22"
+.CAMN +9186603665344D6F697374757265.
+.4322E383056204C6F77204D6F697374757265.
+.+CMGS: 57
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = 
+.
+.enter to check_in_msg_task fun
+.
+.No Commands Match
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 18, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2628 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 59
+.OK
+.
+.SM_MSG_SENT_OK
+.at+cscs="gsm"
+
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,16:02:41+22"
+.CDMN 8660366534
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,16:02:41+22"
+.CDMN 86603665347204D6F697374757265.
+.44D6F697374757265.
+.4322E383056204C6F77204D6F697374757265.
+.+CMGS: 57
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = 
+.
+.enter to check_in_msg_task fun
+.
+.No Commands Match
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2593 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 60
+.OK
+.
+.SM_MSG_SENT_OK
+.at+cscs="gsm"
+
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+..
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+GLTS: 20/01/22,15:59:23/GMT+5:30
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.
+.+PBREADY
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2620 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 57
+.OK
+.
+.SM_MSG_SENT_OK
+.at+cscs="gsm"
+
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 15H::59M::55S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,16:00:41+22"
+.CAMN +918660366534
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,16:00:41+22"
+.CAMN +918660366534322E383056204C6F77204D6F697374757265.
+.+CMGS: 57
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = 
+.
+.enter to check_in_msg_task fun
+.
+.No Commands Match
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2618 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 58
+.OK
+.
+.SM_MSG_SENT_OK
+.at+cscs="gsm"
+
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,16:01:45+22"
+.CAMN +918660366534
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,16:01:45+22"
+.CAMN +9186603665344D6F697374757265.
+.4322E383056204C6F77204D6F697374757265.
+.+CMGS: 57
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = 
+.
+.enter to check_in_msg_task fun
+.
+.No Commands Match
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 18, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2628 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 59
+.OK
+.
+.SM_MSG_SENT_OK
+.at+cscs="gsm"
+
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,16:02:41+22"
+.CDMN 8660366534
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,16:02:41+22"
+.CDMN 86603665347204D6F697374757265.
+.44D6F697374757265.
+.4322E383056204C6F77204D6F697374757265.
+.+CMGS: 57
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = 
+.
+.enter to check_in_msg_task fun
+.
+.No Commands Match
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2593 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 60
+.OK
+.
+.SM_MSG_SENT_OK
+.at+cscs="gsm"
+
+.OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+..
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.+PBREADY
+.
+.+GLTS: 20/01/22,17:23:39/GMT+5:30
+.
+.Cur_Bat_Voltage = 4.2431 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 61
+.OK
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 17H::23M::56S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 18, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2574 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 62
+.OK
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 16, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2529 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 63
+.OK
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,17:26:57+22"
+.43414D4E202B393138363630333636353334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,17:26:57+22"
+.43414D4E202B393138363630333636353334.04D6F697374757265.
+.+CMGS: 61
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +918660366534.oisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +918660366534.oisture
+
+.
+.temp_data-> CAMN +918660366534
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->A
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->+
+
+.
+.i->6 data[i]->9
+
+.
+.i->7 data[i]->1
+
+.
+.i->8 data[i]->8
+
+.
+.i->9 data[i]->6
+
+.
+.i->10 data[i]->6
+
+.
+.i->11 data[i]->0
+
+.
+.i->12 data[i]->3
+
+.
+.i->13 data[i]->6
+
+.
+.i->14 data[i]->6
+
+.
+.i->15 data[i]->5
+
+.
+.i->16 data[i]->3
+
+.
+.i->17 data[i]->4
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->+918660366534  len->13
+
+.
+.Recieve Authorised No.-> +918660366534
+
+.
+.msg_data_changed: Authorised mobile Number Set to +918660366534
+
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2576 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 64
+.OK
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,17:28:38+22"
+.43444D4E2038363630333636353334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,17:28:38+22"
+.43444D4E20383636303336363533347265.
+.8363630333636353334.04D6F697374757265.
+.+CMGS: 61
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CDMN 8660366534re
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CDMN
+.
+.enter to call_fun_change
+.
+.var CDMN 8660366534re
+
+.
+.temp_data-> CDMN 8660366534
+
+.
+.i->0 MSGCMD[i]->C
+
+.
+.i->1 MSGCMD[i]->D
+
+.
+.i->2 MSGCMD[i]->M
+
+.
+.i->3 MSGCMD[i]->N
+
+.
+.i->4 MSGCMD[i]->
+.
+.i->5 data[i]->8
+
+.
+.i->6 data[i]->6
+
+.
+.i->7 data[i]->6
+
+.
+.i->8 data[i]->0
+
+.
+.i->9 data[i]->3
+
+.
+.i->10 data[i]->6
+
+.
+.i->11 data[i]->6
+
+.
+.i->12 data[i]->5
+
+.
+.i->13 data[i]->3
+
+.
+.i->14 data[i]->4
+
+.
+.msgcmd->CDMN  len->4
+
+.
+.data->8660366534  len->10
+
+.
+.Recieve Destination No.-> 8660366534
+
+.
+.msg_data_changed: Destination mobile Number Set to 8660366534
+
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+..
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 18, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.
+.+GLTS: 20/01/22,17:35:14/GMT+5:30
+.
+.+PBREADY
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 18, 0
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2587 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 65
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 17H::35M::33S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,17:36:10+22"
+.43414D4E202B393138363630333636353334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,17:36:10+22"
+.43414D4E202B393138363630333636353334204D6F697374757265.
+.+CMGS: 65
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CAMN +918660366534 Moisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CAMN
+.
+.enter to call_fun_change
+.
+.var CAMN +918660366534 Moisture
+
+.
+.temp_data-> CAMN +918660366534
+
+.
+.msgcmd->CAMN  len->4
+
+.
+.data->+918660366534  len->13
+
+.
+.Recieve Authorised No.-> +918660366534
+
+.
+.msg_data_changed: Authorised mobile Number Set to +918660366534
+
+.at+cmgs="8660366534"
+
+.> 417574686F7269736564206D6F62696C65204E756D6265722053657420746F202B393138363630333636353334.
+.> 
+.+CMGS: 66
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::51S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 19, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2601 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 67
+.OK
+.
+.message_count = 2
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::17S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,17:37:57+22"
+.43444D4E20383636303336363334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,17:37:57+22"
+.43444D4E20383636303336363334757265.
+.53334.
+.33636353334204D6F697374757265.
+.+CMGS: 65
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CDMN 866036634ure
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CDMN
+.
+.enter to call_fun_change
+.
+.var CDMN 866036634ure
+
+.
+.temp_data-> CDMN 866036634u
+
+.
+.msgcmd->CDMN  len->4
+
+.
+.data->866036634  len->9
+
+.
+.msg_data_changed: please enter correct format CDMN<space><mobile_no>
+
+.at+cmgs="8660366534"
+
+.> 706C6561736520656E74657220636F727265637420666F726D61742043444D4E3C73706163653E3C6D6F62696C655F6E6F3E
+.> .
+.> 
+.+CMGS: 68
+.OK
+.
+.message_count = 2
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::29S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 20, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2615 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 69
+.OK
+.
+.message_count = 3
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::17S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 20, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2644 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 70
+.OK
+.
+.message_count = 4
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::17S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2638 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 71
+.OK
+.
+.message_count = 5
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,17:42:18+22"
+.43444D4E2038363630333636353334
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,17:42:18+22"
+.43444D4E20383636303336363533347265.
+.2696C655F6E6F3E
+..
+.53334.
+.33636353334204D6F697374757265.
+.+CMGS: 65
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CDMN 8660366534re
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CDMN
+.
+.enter to call_fun_change
+.
+.var CDMN 8660366534re
+
+.
+.temp_data-> CDMN 8660366534
+
+.
+.msgcmd->CDMN  len->4
+
+.
+.data->8660366534  len->10
+
+.
+.Recieve Destination No.-> 8660366534
+
+.
+.msg_data_changed: Destination mobile Number Set to 8660366534
+
+.at+cmgs="8660366534"
+
+.> 44657374696E6174696F6E206D6F62696C65204E756D6265722053657420746F2038363630333636353334.
+.> 
+.+CMGS: 72
+.OK
+.
+.message_count = 5
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::27S
+.
+.Device wakeup after 0H::0M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/22,17:42:49+22"
+.43535044203939
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/22,17:42:49+22"
+.435350442039396F2038363630333636353334.
+.6363533347265.
+.2696C655F6E6F3E
+..
+.53334.
+.33636353334204D6F697374757265.
+.+CMGS: 65
+.
+.
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPD 99o 8660366534
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPD 99o 8660366534
+
+.
+.temp_data-> CSPD 99o
+
+.
+.msgcmd->CSPD  len->4
+
+.
+.data->99  len->2
+
+.
+.Recieve SMS per Day No.-> 99
+
+.
+.msg_data_changed: Number of SMS/Day Set to 99
+
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F4461792053657420746F203939.
+.> 
+.+CMGS: 73
+.OK
+.
+.message_count = 5
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.*********************************************
+.
+.Authorised Mobile No: +918660366534
+
+.
+.Destination Mobile No: 8660366534
+
+.
+.Number of SMS per Day: 99
+
+.
+.*********************************************
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+
+.+PBREADY
+.at+csq
+
+.+CSQ: 19, 0
+.OK
+.
+.+GLTS: 20/01/23,11:18:52/GMT+5:30
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2632 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 92
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 11H::19M::10S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CMT: "+918660366534", ,"2020/01/23,11:19:53+22"
+.436873676720373632353536
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/23,11:19:53+22"
+.4368736767203736323535363056204C6F77204D6F697374757265.
+.+CMGS: 92
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = Chsgg 7625560V Low Moisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case NOCMD
+.
+.No Commands Match
+.at+cmgs="8660366534"
+
+.> 436F6D6D616E6420466F726D61742057726F6E6721212120506C6561736520656E7465722076616C696420666F726D6174.
+.> 
+.+CMGS: 93
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::59S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 16, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2615 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 94
+.OK
+.
+.message_count = 2
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::19S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 15, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2560 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 95
+.OK
+.
+.message_count = 3
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::17S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2570 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 96
+.OK
+.
+.message_count = 4
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::17S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 16, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2601 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 97
+.OK
+.
+.message_count = 5
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::17S
+.
+.Device wakeup after 0H::2M::59S
+.
+.GPRS DISCONNECTION
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 17, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2626 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 98
+.OK
+.
+.message_count = 6
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::17S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 16, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2519 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 99
+.OK
+.
+.message_count = 7
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::19S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 16, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2638 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 100
+.OK
+.
+.message_count = 8
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::18S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.2478 volts
+
+.
+.Battery_Voltage_Level=100%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=100%, moisture 2.80V Low Moisture
+
+.at+cmgs="8660366534"
+
+.> 426174746572793D313030252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 101
+.OK
+.
+.message_count = 9
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::3M::17S
+.
+.Device wakeup after 0H::2M::59S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 16, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+..
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+.MODEM:STARTUP
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.*********************************************
+.
+.Authorised Mobile No: +918660366534
+.
+.Destination Mobile No: 8660366534
+.
+.Number of SMS per Day: 99
+.
+.*********************************************
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup time after RTC Time change 0H::14M::32S
+.
+.Device wakeup after 0H::14M::32S
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.
+.+GLTS: 20/01/23,16:04:27/GMT+5:30
+.
+.+PBREADY
+..
+.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

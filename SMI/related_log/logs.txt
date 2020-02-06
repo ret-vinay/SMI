@@ -1,0 +1,3498 @@
+
+.MODEM:STARTUP
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.0,file red successfully
+.
+.*********************************************
+.
+.Authorised Mobile No: +918660366534
+.
+.Destination Mobile No: 8660366534
+.
+.Number of SMS per Day: 99
+.
+.*********************************************
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::14M::32S
+.at
+
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,2
+.OK
+.at+creg?
+
+.+CREG: 0,1
+.OK
+.
+.+PBREADY
+.
+.+GLTS: 00/00/00,00:00:00/GMT000
+.at+csq
+
+.+CSQ: 12, 4
+.OK
+.at+GLTS=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.at+cnmi=2,2,0,0,0
+
+.OK
+.at+xiic=1
+
+.OK
+.SM_INIT_OK
+at+csq
+
+.+CSQ: 12, 4
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.1113 volts
+
+.
+.Battery_Voltage_Level=94%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Device ON Battery=94%, moisture 2.80V Low Moisture
+
+.
+.message_count 0 no_of_sms 99
+.at+cmgs="8660366534"
+
+.> 446576696365204F4E20426174746572793D3934252C206D6F69737475726520322E383056204C6F77204D6F697374757265
+.> .
+.> 
+.+CMGS: 143
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::55S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::14M::32S
+.
+.+CMT: "+918660366534", ,"2020/01/27,11:52:06+22"
+.43535048203630
+.
+.receive_msg_buf = +CMT: "+918660366534", ,"2020/01/27,11:52:06+22"
+.4353504820363020322E383056204C6F77204D6F697374757265
+.
+.
+.Rec_Mbl_No = +918660366534
+.
+.Rec_Msg = CSPH 60 2.80V Low Moisture
+.
+.enter to check_in_msg_task fun
+.
+.enter to case CSPD
+.
+.enter to call_fun_change
+.
+.var CSPH 60 2.80V Low Moisture
+
+.
+.temp_data-> CSPH 60
+
+.
+.msgcmd->CSPH  len->4
+
+.
+.data->60  len->2
+
+.
+.Recieve SMS per Hour No.-> 60
+
+.
+.Enter to fun_RTC_Change
+
+.
+.wakeup timings 0H::1M::0S
+.
+.msg_data_changed: Number of SMS/Hour Set to 60
+
+.
+.message_count -1
+.
+.message_count 0
+.
+.message_count 0 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 4E756D626572206F6620534D532F486F75722053657420746F203630.
+.> 
+.+CMGS: 144
+.OK
+.
+.message_count = 1
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::0M::39S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.GPRS DISCONNECTION
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.1101 volts
+
+.
+.Battery_Voltage_Level=93%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=93%, moisture 2.80V Low Moisture
+
+.
+.message_count 1 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3933252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 145
+.OK
+.
+.message_count = 2
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.1101 volts
+
+.
+.Battery_Voltage_Level=93%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=93%, moisture 2.80V Low Moisture
+
+.
+.message_count 2 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3933252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 146
+.OK
+.
+.message_count = 3
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.
+.+GLTS: 20/01/27,11:56:02/GMT+5:30
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.1031 volts
+
+.
+.Battery_Voltage_Level=92%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=92%, moisture 2.80V Low Moisture
+
+.
+.message_count 3 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3932252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 147
+.OK
+.
+.message_count = 4
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 11H::56M::21S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 12, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.1064 volts
+
+.
+.Battery_Voltage_Level=92%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=92%, moisture 2.80V Low Moisture
+
+.
+.message_count 4 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3932252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 148
+.OK
+.
+.message_count = 5
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.1013 volts
+
+.
+.Battery_Voltage_Level=92%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=92%, moisture 2.80V Low Moisture
+
+.
+.message_count 5 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3932252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 149
+.OK
+.
+.message_count = 6
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0998 volts
+
+.
+.Battery_Voltage_Level=92%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=92%, moisture 2.80V Low Moisture
+
+.
+.message_count 6 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3932252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 150
+.OK
+.
+.message_count = 7
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::21S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.1002 volts
+
+.
+.Battery_Voltage_Level=92%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=92%, moisture 2.80V Low Moisture
+
+.
+.message_count 7 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3932252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 151
+.OK
+.
+.message_count = 8
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::21S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0970 volts
+
+.
+.Battery_Voltage_Level=91%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=91%, moisture 2.80V Low Moisture
+
+.
+.message_count 8 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3931252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 152
+.OK
+.
+.message_count = 9
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 2
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0924 volts
+
+.
+.Battery_Voltage_Level=91%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=91%, moisture 2.80V Low Moisture
+
+.
+.message_count 9 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3931252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 153
+.OK
+.
+.message_count = 10
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0937 volts
+
+.
+.Battery_Voltage_Level=91%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=91%, moisture 2.80V Low Moisture
+
+.
+.message_count 10 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3931252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 154
+.OK
+.
+.message_count = 11
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0896 volts
+
+.
+.Battery_Voltage_Level=90%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=90%, moisture 2.80V Low Moisture
+
+.
+.message_count 11 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3930252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 155
+.OK
+.
+.message_count = 12
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0900 volts
+
+.
+.Battery_Voltage_Level=90%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=90%, moisture 2.80V Low Moisture
+
+.
+.message_count 12 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3930252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 156
+.OK
+.
+.message_count = 13
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0900 volts
+
+.
+.Battery_Voltage_Level=90%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=90%, moisture 2.80V Low Moisture
+
+.
+.message_count 13 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3930252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 157
+.OK
+.
+.message_count = 14
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0871 volts
+
+.
+.Battery_Voltage_Level=90%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=90%, moisture 2.80V Low Moisture
+
+.
+.message_count 14 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3930252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 158
+.OK
+.
+.message_count = 15
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0851 volts
+
+.
+.Battery_Voltage_Level=90%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=90%, moisture 2.80V Low Moisture
+
+.
+.message_count 15 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3930252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 159
+.OK
+.
+.message_count = 16
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::21S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0822 volts
+
+.
+.Battery_Voltage_Level=89%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=89%, moisture 2.80V Low Moisture
+
+.
+.message_count 16 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3839252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 160
+.OK
+.
+.message_count = 17
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0832 volts
+
+.
+.Battery_Voltage_Level=89%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=89%, moisture 2.80V Low Moisture
+
+.
+.message_count 17 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3839252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 161
+.OK
+.
+.message_count = 18
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0810 volts
+
+.
+.Battery_Voltage_Level=89%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7996 volts
+
+.
+.Battery=89%, moisture 2.80V Low Moisture
+
+.
+.message_count 18 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3839252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 162
+.OK
+.
+.message_count = 19
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0775 volts
+
+.
+.Battery_Voltage_Level=88%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=88%, moisture 2.80V Low Moisture
+
+.
+.message_count 19 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3838252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 163
+.OK
+.
+.message_count = 20
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0777 volts
+
+.
+.Battery_Voltage_Level=88%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=88%, moisture 2.80V Low Moisture
+
+.
+.message_count 20 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3838252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 164
+.OK
+.
+.message_count = 21
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0760 volts
+
+.
+.Battery_Voltage_Level=88%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=88%, moisture 2.80V Low Moisture
+
+.
+.message_count 21 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3838252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 165
+.OK
+.
+.message_count = 22
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0748 volts
+
+.
+.Battery_Voltage_Level=88%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=88%, moisture 2.80V Low Moisture
+
+.
+.message_count 22 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3838252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 166
+.OK
+.
+.message_count = 23
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0744 volts
+
+.
+.Battery_Voltage_Level=88%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7991 volts
+
+.
+.Battery=88%, moisture 2.80V Low Moisture
+
+.
+.message_count 23 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3838252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 167
+.OK
+.
+.message_count = 24
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0717 volts
+
+.
+.Battery_Voltage_Level=87%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=87%, moisture 2.80V Low Moisture
+
+.
+.message_count 24 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3837252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 168
+.OK
+.
+.message_count = 25
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0705 volts
+
+.
+.Battery_Voltage_Level=87%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=87%, moisture 2.80V Low Moisture
+
+.
+.message_count 25 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3837252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 169
+.OK
+.
+.message_count = 26
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::23S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0699 volts
+
+.
+.Battery_Voltage_Level=87%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=87%, moisture 2.80V Low Moisture
+
+.
+.message_count 26 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3837252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 170
+.OK
+.
+.message_count = 27
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0664 volts
+
+.
+.Battery_Voltage_Level=87%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=87%, moisture 2.80V Low Moisture
+
+.
+.message_count 27 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3837252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 171
+.OK
+.
+.message_count = 28
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 3
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0641 volts
+
+.
+.Battery_Voltage_Level=86%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=86%, moisture 2.80V Low Moisture
+
+.
+.message_count 28 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3836252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 172
+.OK
+.
+.message_count = 29
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::34S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 2
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0496 volts
+
+.
+.Battery_Voltage_Level=84%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=84%, moisture 2.80V Low Moisture
+
+.
+.message_count 29 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3834252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 173
+.OK
+.
+.message_count = 30
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::26S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0551 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 30 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 176
+.OK
+.
+.message_count = 31
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0518 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 31 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 177
+.OK
+.
+.message_count = 32
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 12, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0506 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 32 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 178
+.OK
+.
+.message_count = 33
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0510 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 33 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 179
+.OK
+.
+.message_count = 34
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::21S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0510 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 34 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 180
+.OK
+.
+.message_count = 35
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 12, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0491 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 35 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 181
+.OK
+.
+.message_count = 36
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::22S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0467 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 36 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 182
+.OK
+.
+.message_count = 37
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 12, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0448 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7987 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 37 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 183
+.OK
+.
+.message_count = 38
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0438 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 38 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 184
+.OK
+.
+.message_count = 39
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 12, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0430 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 39 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 185
+.OK
+.
+.message_count = 40
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::21S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0407 volts
+
+.
+.Battery_Voltage_Level=83%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=83%, moisture 2.80V Low Moisture
+
+.
+.message_count 40 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3833252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 186
+.OK
+.
+.message_count = 41
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0389 volts
+
+.
+.Battery_Voltage_Level=82%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=82%, moisture 2.80V Low Moisture
+
+.
+.message_count 41 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3832252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 187
+.OK
+.
+.message_count = 42
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0362 volts
+
+.
+.Battery_Voltage_Level=82%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=82%, moisture 2.80V Low Moisture
+
+.
+.message_count 42 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3832252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 188
+.OK
+.
+.message_count = 43
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::24S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0383 volts
+
+.
+.Battery_Voltage_Level=82%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=82%, moisture 2.80V Low Moisture
+
+.
+.message_count 43 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3832252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 189
+.OK
+.
+.message_count = 44
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0321 volts
+
+.
+.Battery_Voltage_Level=81%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=81%, moisture 2.80V Low Moisture
+
+.
+.message_count 44 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3831252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 190
+.OK
+.
+.message_count = 45
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0340 volts
+
+.
+.Battery_Voltage_Level=81%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=81%, moisture 2.80V Low Moisture
+
+.
+.message_count 45 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3831252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 191
+.OK
+.
+.message_count = 46
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 1
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0346 volts
+
+.
+.Battery_Voltage_Level=81%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=81%, moisture 2.80V Low Moisture
+
+.
+.message_count 46 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3831252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 192
+.OK
+.
+.message_count = 47
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0309 volts
+
+.
+.Battery_Voltage_Level=81%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=81%, moisture 2.80V Low Moisture
+
+.
+.message_count 47 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3831252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 193
+.OK
+.
+.message_count = 48
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0286 volts
+
+.
+.Battery_Voltage_Level=81%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=81%, moisture 2.80V Low Moisture
+
+.
+.message_count 48 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3831252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 194
+.OK
+.
+.message_count = 49
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 14, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0272 volts
+
+.
+.Battery_Voltage_Level=81%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=81%, moisture 2.80V Low Moisture
+
+.
+.message_count 49 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3831252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 195
+.OK
+.
+.message_count = 50
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::32S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0278 volts
+
+.
+.Battery_Voltage_Level=81%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=81%, moisture 2.80V Low Moisture
+
+.
+.message_count 50 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3831252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 196
+.OK
+.
+.message_count = 51
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::21S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0260 volts
+
+.
+.Battery_Voltage_Level=80%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=80%, moisture 2.80V Low Moisture
+
+.
+.message_count 51 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3830252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 197
+.OK
+.
+.message_count = 52
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 10, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0247 volts
+
+.
+.Battery_Voltage_Level=80%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=80%, moisture 2.80V Low Moisture
+
+.
+.message_count 52 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3830252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 198
+.OK
+.
+.message_count = 53
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0216 volts
+
+.
+.Battery_Voltage_Level=80%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=80%, moisture 2.80V Low Moisture
+
+.
+.message_count 53 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3830252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.+CMGS: 199
+.OK
+.
+.message_count = 54
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0216 volts
+
+.
+.Battery_Voltage_Level=80%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=80%, moisture 2.80V Low Moisture
+
+.
+.message_count 54 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3830252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 200
+.OK
+.
+.message_count = 55
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0114 volts
+
+.
+.Battery_Voltage_Level=78%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=78%, moisture 2.80V Low Moisture
+
+.
+.message_count 55 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3738252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 201
+.OK
+.
+.message_count = 56
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0161 volts
+
+.
+.Battery_Voltage_Level=78%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=78%, moisture 2.80V Low Moisture
+
+.
+.message_count 56 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3738252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 202
+.OK
+.
+.message_count = 57
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::19S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 11, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0145 volts
+
+.
+.Battery_Voltage_Level=78%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=78%, moisture 2.80V Low Moisture
+
+.
+.message_count 57 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3738252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 203
+.OK
+.
+.message_count = 58
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 10, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0157 volts
+
+.
+.Battery_Voltage_Level=78%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=78%, moisture 2.80V Low Moisture
+
+.
+.message_count 58 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3738252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 204
+.OK
+.
+.message_count = 59
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::20S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 3
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0060 volts
+
+.
+.Battery_Voltage_Level=77%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=77%, moisture 2.80V Low Moisture
+
+.
+.message_count 59 no_of_sms 60
+.at+cmgs="8660366534"
+
+.> 426174746572793D3737252C206D6F69737475726520322E383056204C6F77204D6F697374757265.
+.> 
+.+CMGS: 205
+.OK
+.
+.message_count = 60
+.
+.SM_MSG_SENT_OK
+.
+.All Timers stops working
+.
+.neoway_RTC_task
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 0H::1M::0S
+.
+.+CALV: 0
+.
+.Device wakeup!!!
+.at+csq
+
+.+CSQ: 13, 99
+.OK
+.at+cmgf=1
+
+.OK
+.at+cscs="HEX"
+
+.OK
+.
+.SM_MSG_INIT_OK
+.
+.Battery voltage reading...
+.
+.Cur_Bat_Voltage = 4.0106 volts
+
+.
+.Battery_Voltage_Level=77%
+.
+.reading moisture sensor data...
+.
+.sensor_Voltage is = 2.7999 volts
+
+.
+.Battery=77%, moisture 2.80V Low Moisture
+
+.
+.message_count 60 no_of_sms 60
+.
+.Message Send Count Limit Exceeded!!!
+.
+.Enter to Reset_RTC_Fun
+
+.
+.current time is 0H::1M::18S
+.
+.All Timers stops working
+.
+.Device wakeup after 23H::59M::59S
